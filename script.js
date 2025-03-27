@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
     // URL de la API (cámbiala por la tuya)
-    const API_URL = "http://54.211.149.218/api-php-world/api/get_countries.php";
+    const API_URL = "http://54.208.162.195/api-php-world/api/get_countries.php";
 
     // Función para obtener y mostrar los datos
     fetch(API_URL)
